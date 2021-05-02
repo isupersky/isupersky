@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a work in progress Full stack developer with a masters degree in Computer Application. </br>
+🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)

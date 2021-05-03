@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 🌱 I’m a Full stack developer with a masters degree in Computer Application. </br>
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)

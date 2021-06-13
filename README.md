@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <a href="https://www.linkedin.com/in/aakash9868sinha/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -38,4 +40,11 @@ Here are some ideas to get you started:
 ![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8)
 <br />
+
+
+### 📕 Blog Posts
+- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
+- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+<br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)

@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
 </a>
 <a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium" />
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
 </a>
 
 <br />

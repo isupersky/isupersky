@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
 <a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/X" />
 </a>
 <a href="mailto:mailtomeaakash@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />

@@ -1,4 +1,4 @@
-## Hello World, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Hello World, I'm [Aakash Sinha!](https://isupersky.github.io/portfolio/#/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://www.linkedin.com/in/aakash9868sinha/">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/linkedin"  />
+  <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"  />
 </a>
 <!-- <a href="https://twitter.com/isupersky">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/X" />

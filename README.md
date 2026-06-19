@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Senior Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
+- [Software Develpment Engineer 3 (Bharatpe)](https://bharatpe.com/) - (Jun'25-Present)
+- [Senior Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-may'25)
 - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
 - [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
 
